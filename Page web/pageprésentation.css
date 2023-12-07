@@ -1,0 +1,59 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+header {
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+.Contenu{
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    height : 100vh;
+}
+
+.profile-image {
+    display: block;
+    margin: 0 auto;
+    width: 200px;
+    border-radius: 50%;
+}   
+
+p {
+    font-size: 18px;
+}
+
+
+.TEXT {
+    background-color: white;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 5px;
+    text-align: justify;
+}
+
+
+#fond{
+    height : 100vh;
+    width : 100vw;
+    position : fixed;
+    top:0px;
+    left : 0px;
+    z-index: -10;
+}
+
+
+h2{
+    font-size: 24px;
+    color: hsl(211, 100%, 50%);
+}
+
